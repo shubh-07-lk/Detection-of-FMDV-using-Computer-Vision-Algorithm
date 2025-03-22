@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Foot-and-mouth disease - v1 2024-05-25 2-00am']
+
+roboflow:
+  workspace: non-fmzye
+  project: name1-mb7nq
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/non-fmzye/name1-mb7nq/dataset/1
