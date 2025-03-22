@@ -51,10 +51,4 @@ Google Colab (Training & inference)
 
 ---
 
-### **Final Steps to Upload on GitHub**
-1. **Place all necessary files** (`detect.py`, `requirements.txt`, `README.md`, `best.pt`, etc.) in a folder.
-2. **Follow the GitHub upload steps** (commit & push).
-3. **Ensure the repository is public** (or share the private repo link if needed).
-
-Let me know if you need further customizations! 🚀
 
