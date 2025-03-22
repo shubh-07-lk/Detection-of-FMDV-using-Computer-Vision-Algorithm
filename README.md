@@ -78,10 +78,9 @@ python detect.py --weights runs/train/exp/weights/best.pt --conf 0.25 --source 0
 ---
 
 ## 📊 Performance Evaluation
-- **mAP (Mean Average Precision):** XX%
-- **Precision:** XX%
-- **Recall:** XX%
-- **Inference Speed:** XX ms/frame
+- **mAP (Mean Average Precision):** 86%
+- **Precision:** 93%
+- **Recall:** 87%
 
 ---
 
