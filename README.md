@@ -31,7 +31,7 @@ FMD_Virus_Detection_YOLOv7/
 
 ### **1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/YOUR_USERNAME/FMD_Virus_Detection_YOLOv7.git
+git clone https://github.com/shubh-07-lk/FMD_Virus_Detection_YOLOv7.git
 cd FMD_Virus_Detection_YOLOv7
 ```
 
